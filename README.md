@@ -31,11 +31,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 # Acknowledgements
 The blood cell counter is built upon the YoLo v7 object detection algorithm, developed by the original authors. We would like to acknowledge their contribution to the field of computer vision and object detection.
 
-Special thanks to the team at XYZ Medical Center for providing the blood cell image dataset used for training and validation of the blood cell counter.
+I am grateful to the team at the Protection Radiation Laboratory for inspiring me with their research challenge of counting human blood cells for their investigation on Blood Quality using Bioimpedance and Cell Counter. In response, I have developed this code to offer them assistance in solving this problem.
 
 # Contact
 For any questions or inquiries, please contact mmasadar@gmail.com or visit my personal website at mahasin.tech.
 
 We hope you find this blood cell counter useful for your research. Thank you!
-
-
