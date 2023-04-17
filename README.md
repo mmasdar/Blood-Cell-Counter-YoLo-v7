@@ -1,6 +1,9 @@
 
 # Blood Cell Counter using YoLo v7
 
+![Image Alt Text](https://github.com/mmasdar/Blood-Cell-Counter-YoLo-v7/blob/main/result_example.JPG)
+
+
 This repository contains the code and data for a blood cell counter based on YoLo v7, a state-of-the-art object detection algorithm. The goal of this project is to provide a fast and accurate way to count and classify different types of blood cells from microscopic images.
 
 ## Getting Started
